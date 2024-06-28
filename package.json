@@ -1,0 +1,19 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByteBuildersLabs/TestingApp.git"
+  },
+  "author": "ByteBeast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ByteBuildersLabs/TestingApp/issues"
+  },
+  "homepage": "https://github.com/ByteBuildersLabs/TestingApp#readme"
+}
